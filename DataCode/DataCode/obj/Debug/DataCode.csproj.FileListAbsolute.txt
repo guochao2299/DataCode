@@ -1,0 +1,8 @@
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\bin\Debug\DataCode.exe
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\bin\Debug\DataCode.pdb
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.csprojResolveAssemblyReference.cache
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.frmMain.resources
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.Properties.Resources.resources
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.csproj.GenerateResource.Cache
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.exe
+c:\users\gc_2299\documents\visual studio 2012\Projects\DataCode\DataCode\obj\Debug\DataCode.pdb
